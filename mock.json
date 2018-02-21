@@ -1,0 +1,31 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "brewery": "Dogfish",
+      "country": "United States",
+      "name": "120 Minute",
+      "style": "Imperial IPA",
+      "abvrange": ["15", "20"],
+      "ibu": "120"
+    },
+    {
+      "id": 2,
+      "brewery": "Dogfish",
+      "country": "United States",
+      "name": "60 Minute",
+      "style": "Imperial IPA",
+      "abvrange": ["6.0"],
+      "ibu": "60"
+    },
+    {
+      "id": 3,
+      "brewery": "Huyghe",
+      "country": "Belgian",
+      "name": "60 Minute",
+      "style": "Fruit & Flavoured Ale",
+      "abvrange": ["6.0"],
+      "ibu": "60"
+    }
+  ]
+}
